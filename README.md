@@ -1,1 +1,1 @@
-[rabross.com](http://rabross.com){:target="_blank"} source
+[rabross.com](http://rabross.com) source
